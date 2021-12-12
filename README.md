@@ -1,1 +1,3 @@
 # DinnerWheel
+
+This is a wheel made to help my girlfirend and I decide what to eat for dinner. This project is currently a "stand-in" while I work on a more complex project that stores meals and recipes in my own created database and imports them via a react app to dynamically update the wheel. You will be able to add a series of options in the wheel from a dropdown provided by the api on the backend. This is step 1 of that project.
